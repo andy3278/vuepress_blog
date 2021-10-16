@@ -2,6 +2,7 @@ module.exports = {
     title: "Andy's Blog",
     description: 'This is my blog built with vuepress!',
     base: '/',
+    dest: 'dist/',
     theme: 'ououe',
     themeConfig: {
         cover: {
@@ -9,10 +10,15 @@ module.exports = {
             //'/posts/': '/posts.jpg'
             // ...
         },
+        //logo: '/logo.png',
+
+
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Blogs', link: '/blogs/' },
-            { text: 'About', link: '/about/' }
+            { text: 'About', link: '/about/' },
+            { text: 'Machine Learning', link: '/ML/'},
+            { text: 'Web Dev', link: '/webdev/'}
         ],
 
         footer: [
