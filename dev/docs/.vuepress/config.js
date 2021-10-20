@@ -7,7 +7,7 @@ module.exports = {
     themeConfig: {
         cover: {
             base: '/cover.jpg',
-            //'/posts/': '/posts.jpg'
+            //'/about/': '/courage.jpg'
             // ...
         },
         //logo: '/logo.png',
