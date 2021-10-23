@@ -10,7 +10,7 @@ categories:
   - blogs
   - theme
 tag: vuepress
-category: about
+category: Blogs
 ---
 
 
@@ -22,4 +22,4 @@ Then I come to a realization that what matter the most isn't skills or eperience
 
 I was once stuck in middle of a cross road, being indecision then i started to write blog, idea can be writen is good idea, writing things down helps me clear my mind and forces me focus on one thing and only one thing at a time. 
 
-Right now I am ready to start my journey, and I know it is never too late to
+Right now I am ready to start my journey, and I know it is never too late to start🚀.

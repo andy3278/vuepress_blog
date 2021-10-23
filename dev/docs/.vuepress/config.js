@@ -1,6 +1,6 @@
 module.exports = {
-    title: "Andy's Blog",
-    description: 'This is my blog built with vuepress!',
+    title: "Sapere aude! Dare to think!",
+    description: "Enlightenment is man's emergence from the slavery imposed by himself",
     base: '/vuepress_blog/',
     //dest: '/dist/',
     theme: 'ououe',
