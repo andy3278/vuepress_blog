@@ -1,7 +1,7 @@
 ---
 title: How to use
 display: home
-image: ...
+#image: ...
 date: 2019-02-22
 tags:
   - vuepress
@@ -10,5 +10,6 @@ categories:
   - blogs
   - theme
 tag: vuepress
-category: blogs
+category: Blogs
 ---
+Testing 
